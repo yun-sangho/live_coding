@@ -1,0 +1,14 @@
+{
+  "name": "curry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "curry.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
